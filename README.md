@@ -15,6 +15,7 @@ Each application in this repository highlights a specific set of technical compe
 | **Pig Latin Converter** | Demonstrates advanced **C-string processing**, pointer arithmetic, and manual array manipulation without standard library helpers. | `PigLatin.cpp` |
 | **Student Record Manager** | Features **custom data structures (structs)**, menu-driven interface design, and efficient record searching/editing. | `StudentInfo2.cpp` |
 | **Academic Performance Tracker** | Utilizes pointer-to-pointer parameters, array sorting (Bubble Sort), and precision-based output formatting. | `QuizGrades2.cpp` |
+| **File Name Reader/Copier** | Utilizes file manager libraries to read, search and copy text from one file to another one. | `NameReport.cpp` |
 
 ---
 
@@ -42,5 +43,5 @@ To run these programs, you will need a C++ compiler such as **GCC/G++** or **Cla
 
 ---
 
-## 📝 About the Author
-I am a **Computer Science major specializing in Cybersecurity** at **Webster University**. Beyond software development, I am deeply interested in the intersection of technology and policy. 
+## About the Author
+I am a Computer Science major specializing in Cybersecurity at Webster University. Beyond software development, I am deeply interested in the intersection of technology and policy. 
